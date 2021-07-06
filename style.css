@@ -61,7 +61,7 @@ nav ul li a{
 } 
 
 .about-me{
-     background-color: white;
+     background-color: lightblue;
       height: 100vh;
       width:100% ;
       
@@ -99,7 +99,8 @@ nav ul li a{
      margin-bottom: 60px;
      text-align: center;
      color: coral;
-     bottom: 1px0;
+     padding: 10px 15px;
+     
 }
 .food p{
       text-align: center;
@@ -125,3 +126,33 @@ nav ul li a{
 .apple h2{
       color: orange;
 }
+.card{
+      
+      height: 30vh;
+      width: 100%;
+}
+ button{
+      margin: 20px;
+      background: orange;
+      border-radius: 10px;
+      font-size: 10px;
+      padding: 15px 20px;
+     
+    
+ }
+ .follower{
+      text-align: center;
+      justify-content: center;
+
+ }
+ .network{
+       background-color: rgb(231, 216, 173);
+       height: 30vh;
+       width: 100%;
+ }
+  .happy h2{
+        color:orange ;
+  }   
+  .happy{
+     text-align: center;
+  }
