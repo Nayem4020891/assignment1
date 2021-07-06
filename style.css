@@ -1,0 +1,95 @@
+
+.color{
+      background-color: white;
+      height: 700px;
+      width:100% ;
+
+}
+
+nav{
+      display:flex;
+      justify-content: left;
+      
+}
+nav ul{
+      display: inline;
+      list-style: none;
+}
+nav ul li{
+      display: inline-block;
+      padding: 25px;
+      font-size: 20px;
+}
+nav ul li a{
+      color: orange;
+     bottom: 20px;
+     text-decoration: none;
+
+}
+.content{
+      position: absolute;
+      top: 27vh;
+      left: 5%;
+      width: 40%;
+}
+.content h1{
+      font-size: 50px;
+}
+.content p{
+      margin-top: 30px;
+      font-size: 16px;
+      text-align: justify;
+}
+#best{
+     color: orange;
+}
+ #order button{
+      margin: 20px;
+      background: orange;
+      border-radius: 10px;
+      font-size: 20px;
+      padding: 15px 20px;
+      
+}
+#pic img{
+      position: absolute;
+      bottom:20%;
+      right: 0;
+      width: 40%;
+
+
+} 
+
+.about-me{
+     background-color: white;
+      height: 100vh;
+      width:100% ;
+      
+}
+
+.text{
+      position: absolute;
+      right:0;
+      bottom: -70%;
+      width: 50%;
+}
+.text h2 span{
+      color: tomato;
+}
+.text p{
+      text-align: justify;
+    
+}
+.text button{
+      margin: 20px;
+      background: #11808f;
+      border-radius: 10px;
+      font-size: 20px;
+      padding: 15px 20px;
+      color: tomato;
+}
+.recipi{
+      background-color: yellowgreen;
+      height: 100vh;
+      width: 100%;
+}
