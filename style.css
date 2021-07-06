@@ -93,3 +93,35 @@ nav ul li a{
       height: 100vh;
       width: 100%;
 }
+
+.food h1{
+     font-size: 50px;
+     margin-bottom: 60px;
+     text-align: center;
+     color: coral;
+     bottom: 1px0;
+}
+.food p{
+      text-align: center;
+}
+.apple{
+      display: flex;
+      text-align: center;
+      width: auto;
+      justify-content: center;
+
+
+}
+.apple .title{
+      background: cornsilk;
+      margin: 5px;
+      margin-bottom: 50px;
+      width: 300px;
+      padding: 20px;
+      line-height: 20px;
+      border-radius: 20px;
+      
+}
+.apple h2{
+      color: orange;
+}
